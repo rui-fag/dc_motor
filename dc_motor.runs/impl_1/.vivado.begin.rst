@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="12912" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="2076" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="16504" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="8836" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="16288" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="16620" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="16012" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="9900" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="10848" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="11252" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="4824" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="17604" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="3084" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="7840" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="18328" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="7352" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="17768" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="3152" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Utilizador" Host="UTILIZADOR" Pid="12700" HostCore="12" HostMemory="016839766016">
+    </Process>
+</ProcessHandle>

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Fri Apr 12 00:59:01 2024
+# Process ID: 8316
+# Current directory: C:/Users/qwesd/Documents/dc_motor/dc_motor.runs/synth_1
+# Command line: vivado.exe -log dc_motor.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dc_motor.tcl
+# Log file: C:/Users/qwesd/Documents/dc_motor/dc_motor.runs/synth_1/dc_motor.vds
+# Journal file: C:/Users/qwesd/Documents/dc_motor/dc_motor.runs/synth_1\vivado.jou
+# Running On: Utilizador, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 10, Host memory: 16839 MB
+#-----------------------------------------------------------
+source dc_motor.tcl -notrace
